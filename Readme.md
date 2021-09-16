@@ -10,3 +10,9 @@
 - Undergraduate School : [Seoul National University (서울대학교; in korean)](https://www.snu.ac.kr/)
 - Graduate School (now) : [Columbia University in the City of New York](https://www.columbia.edu/)
 
+## Research Interests
+
+- Atmospheric Dynamics \
+(Stratosphere-Troposphere Coupling, Teleconnection, General Circulation, etc.)
+- Climate Variability
+- Planetary Sciences
